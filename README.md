@@ -1,5 +1,6 @@
 # Project-Diamond-Python
  Python Project created for IST 411 at Penn State
+ 
 App1 | Payload Retriever:
  - Retrieve a JSON payload of data from the Internet via CURL so that it is easier to work within python
  - Use a network socket programming to send programming securely using TLS to the security app so that my data does not become vulnerable 
