@@ -26,7 +26,7 @@ App3 | Object Broker:
  - Use Unit tests to confirm all methods so that I can determine is it functional
 
 App4 | Message Handler:
- - Receive the pyro python object so that I can convert it back to JSON.
+ - Receive the pyro python object so that I can convert it back to JSON
  - Use the RabbitMQ message Queue in order to communicate and send messages to app1
  - Display the calculated round trip time from app 1
  - Record all workflow actions whether pass or fail into the activity MongoDB NoSQL database with a timestamp
